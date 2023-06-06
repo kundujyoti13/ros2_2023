@@ -1,0 +1,4 @@
+<launch>
+<node pkg="ros_demo" type="move.py" name="move_rosbot_node" output="screen">
+</node>
+</launch>
